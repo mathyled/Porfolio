@@ -1,0 +1,107 @@
+.menu{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10px;
+}
+
+.menu__header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.menu__list{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.menu__list__item{
+    margin: 10px;
+}
+
+.title__div{
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.title__container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.title__network{
+    display: flex;
+    justify-content: space-evenly;
+}
+.nav{
+    display: flex;
+    align-items: center;
+}
+
+.academic{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.academic__courses{
+    display: flex;
+}
+
+.experiencie__box{
+    display: flex;
+}
+
+.skills{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.skills__line{
+    display: flex;
+}
+
+
+.hobbies{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.hobbies__line{
+    display: flex;
+}
+.formcontato__contacto{
+    display: flex;
+}
+
+.formcontato__text{
+    display: flex;
+    flex-direction: column;
+}
+
+.formcontato__form{
+    display: flex;
+    flex-direction: column; 
+}
+
+
+.footer{
+    display: flex;
+    justify-content: center;
+
+}
+.footer__rodape{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.footer__rodape p {
+
+}
