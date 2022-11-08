@@ -111,13 +111,17 @@ section.hobbies{
 
 section.academic{
     background-color: var(--color-de-section) ;
-
-
+    color: var(---color-de-texto);
+    
 }
 
+.academic__courses__list{
+    padding: 0px;
+}
 /* experiencia*/
 
 section.experience{
+    color: var(---color-de-texto);
 
 }
 
