@@ -87,10 +87,24 @@ section.about{
     font-size: x-large;
 }
 
+section.skills{
+    color: var(---color-de-texto);
+    margin: 10px 0px 50px 0px;
+}
+
+.skills__line{
+}
+
 /*Sección Hobbies*/
 
 section.hobbies{
+    color: var(---color-de-texto);
+    margin: 10px 0px 50px 0px;
     
+}
+
+
+.hobbies__line{
 }
 
 /* Experiencia Académica*/
