@@ -129,7 +129,8 @@ section.experience{
 
 section.formcontato{
     background-color: var(--color-de-section) ;
-    
+    padding: 50px 100px 50px 100px ;
+    margin-bottom: 20px;    
 }
 
 .formcontato__subtext{
